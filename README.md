@@ -8,6 +8,8 @@ This script makes it easy to use important Kali tools for CTF competitions, doin
 
 ```bash
 git clone https://github.com/KeepSharp101/kali-toolbox-installer.git
+cd kali-toolbox-installer
+sudo bash update.sh
 ```
 
 
